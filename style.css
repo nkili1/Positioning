@@ -1,0 +1,99 @@
+.visasdokumentas {
+    width: 500px;
+    height: 630px;
+    margin: 0 auto;
+    border: 10px grey solid;
+    border-radius: 10px;
+    padding: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainheader {
+    width: 480px;
+    height: 60px;
+    border: 4px lightgreen solid;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+nav {
+    width: 480px;
+    height: 40px;
+    border: 4px rgb(211, 154, 194) solid;
+    border-radius: 5px;
+    padding: 6px;
+    margin-top: 4px;
+}
+
+article {
+    width: 280px;
+    height: 400px;
+    border: 4px rgb(147, 195, 238) solid;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 4px;
+}
+
+article header {
+    width: 265px;
+    height: 40px;
+    border: 4px lightgreen solid;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 4px;
+}
+
+article section {
+    width: 265px;
+    height: 40px;
+    border: 4px rgb(238, 12, 189) solid;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 4px;
+    position: relative;
+    top: 180px;
+}
+
+article footer {
+    width: 265px;
+    height: 20px;
+    border: 4px yellow solid;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 4px;
+    position: relative;
+    top: 180px;
+}
+
+.sonas {
+    width: 195px;
+    height: 400px;
+    border: 4px orange solid;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 4px;
+    position: relative;
+    left: 295px;
+    bottom: 415px;
+}
+
+.sonas aside {
+    width: 185px;
+    height: 175px;
+    border: 4px aqua solid;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 4px;
+}
+
+footer {
+    width: 480px;
+    height: 40px;
+    border: 4px yellow solid;
+    border-radius: 5px;
+    padding: 6px;
+    margin-top: 4px;
+    position: relative;
+    bottom: 415px;
+}
+
